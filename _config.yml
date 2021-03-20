@@ -109,3 +109,5 @@ protocols:
     os_repo: "https://github.com/zixu-w/jekyll-theme-hw311"
     os_rcs_type: "git"
     os_src: "git@github.com:zixu-w/jekyll-theme-hw311.git"
+
+theme: jekyll-theme-minimal
